@@ -6,30 +6,20 @@
 
 > 本文最终解释权归Nekohack开发组所有，使用Nekohack则表示你以阅读并同意该协议，最后更新于
 
+**一:**
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Nekohack开发组仅jiyun一人，除jiyun外提供的Nekohack均不被Nekohack开发组所认可，使用这些未经认可的Nekohack版本所带来的任何副作用（如锁机）jiyun不承担任何责任。
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jiyun233/NekoEula-jiyun233.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**二:**
+```markdown
+Nekohack可能在启动时向服务器上传以下数据：死亡数、击杀数、用户ID及UUID、所使用Nekohack loader版本、IP地址等
+```
+**三:**
+```markdown
+你不应向他人传播Nekohack的副本。
+```
+**四:**
+```markdown
+你可以对Nekohack进行修改，但和“三”一样，你不应向他人传播这些经过修改的版本。
+```
+***如有违反3、4任意一条，Nekohack开发组有权利取消你使用Nekohack的资格。***
