@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## NekoHack使用条例
+> Nekohack (also known as ねこ hack or CatClient) use protocol
 
-You can use the [editor on GitHub](https://github.com/jiyun233/NekoEula-jiyun233.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### CN-简体中文
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> 本文最终解释权归Nekohack开发组所有，使用Nekohack则表示你以阅读并同意该协议，最后更新于
 
 ```markdown
 Syntax highlighted code block
